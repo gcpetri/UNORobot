@@ -2,8 +2,10 @@
 Goal: Create a robot capable of playing UNO with real people.</br>
 
 # Progress: #</br>
-Robot arm functional</br>
-Image recognition model trained</br>
+*Done*
+> Robot arm functional</br>
+> Image recognition model trained</br>
+*TO-DO*
 > Image recognition model fails (likely need more/better images)</br>
 > Discover how to move the arm in coordinate-like manner rather than relative movement to last position</br>
 > Discover how to send images from the ArduCAM to a server to run the card recognition model</br>
@@ -11,12 +13,12 @@ Image recognition model trained</br>
 
 Specifications:</br>
 # Robot: #</br>
-Two Arduino Uno microprocessors</br>
-One breadboard</br>
-Two "step motor 28byj-48" motors for the arm</br>
-One ArduCAM mini 5 MP-plus ov5642 camera</br>
-Many male-male & male-female wires</br>
+> Two Arduino Uno microprocessors</br>
+> One breadboard</br>
+> Two "step motor 28byj-48" motors for the arm</br>
+> One ArduCAM mini 5 MP-plus ov5642 camera</br>
+> Many male-male & male-female wires</br>
 
 # Image Recognition: #</br>
 -Refer to card_recognition.ipynb-</br>
-Using Keras with Tensorflow libraries with my own card dataset to train a model</br>
+> Using Keras with Tensorflow libraries with my own card dataset to train a model</br>
