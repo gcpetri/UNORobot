@@ -5,7 +5,7 @@ __Progress:__</br>
 > *Done*</br>
 > Robot arm functional</br>
 > Image recognition model trained<br></br>
-*TO-DO*<br></br>
+*TO-DO*</br>
 > Image recognition model fails (likely need more/better images)</br>
 > Discover how to move the arm in coordinate-like manner rather than relative movement to last position</br>
 > Discover how to send images from the ArduCAM to a server to run the card recognition model</br>
