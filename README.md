@@ -18,5 +18,5 @@ One ArduCAM mini 5 MP-plus ov5642 camera
 Many male-male & male-female wires
 
 # Image Recognition: #
-~Refer to card_recognition.ipynb~
+-Refer to card_recognition.ipynb-
 Using Keras with Tensorflow libraries with my own card dataset to train a model
