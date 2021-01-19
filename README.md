@@ -4,14 +4,14 @@ Goal: Create a robot capable of playing UNO with real people.</br>
 __Progress:__</br>
 *Done*
 > Robot arm functional</br>
-> Image recognition model trained</br>
+> Image recognition model trained<br></br>
 *TO-DO*
 > Image recognition model fails (likely need more/better images)</br>
 > Discover how to move the arm in coordinate-like manner rather than relative movement to last position</br>
 > Discover how to send images from the ArduCAM to a server to run the card recognition model</br>
 > Discover how to interpret the results from the card recognition and send coordinates for the robot arm to move the appropriate card</br>
 
-Specifications:</br>
+__*Specifications:__<br></br>
 __Robot:__</br>
 > Two Arduino Uno microprocessors</br>
 > One breadboard</br>
