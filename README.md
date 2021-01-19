@@ -2,7 +2,7 @@
 Goal: Create a robot capable of playing UNO with real people.</br>
 
 __Progress:__</br>
-*Done*
+> *Done*</br>
 > Robot arm functional</br>
 > Image recognition model trained<br></br>
 *TO-DO*<br></br>
